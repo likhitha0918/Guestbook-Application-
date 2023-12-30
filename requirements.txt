@@ -1,0 +1,5 @@
+# Google App Engine SDK
+google-cloud-ndb==8.2.0
+
+# Web framework
+webapp2==2.5.2
